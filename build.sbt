@@ -8,6 +8,6 @@ name := "kbilling-plans"
 
 version := "0.1"
 
-scalaVersion := "2.10.1"
+scalaVersion := "2.10.2"
 
 libraryDependencies += "com.killingbilling" %% "kbilling-types" % "0.1"
